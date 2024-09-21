@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="Hola">Hola Mundo</string>
+    <string name="hola_2">Hello World</string>
+    <string name="hola_pregunta">Hello world</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Asi es</string>
+    <string name="incorrect_toast">Tas mal</string>
+    <string name="next_button">Siguiente</string>
+    <string name="preview_button">Anterior</string>
+    <string name="question">¿Eres estudiante del Huevalles?</string>
+    <string name="question_2">¿El fuego es frío?</string>
+    <string name="question_3">¿La tierra es plana?</string>
+    <string name="question_4">¿Es el cielo azul??</string>
+</resources>
